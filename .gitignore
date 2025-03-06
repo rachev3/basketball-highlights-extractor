@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+new_venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+.venv
+
+# Output folders
+highlights/
+test_results/
+
+# Temporary files
+*.mp4
+*.wav
+*.mp3
+
+# Matplotlib
+*.png
+
+# Jupyter Notebooks
+.ipynb_checkpoints
