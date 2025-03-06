@@ -1,6 +1,14 @@
 # Basketball Highlights Extractor
 
-This application automatically extracts highlight moments from full-length basketball games by analyzing audio peaks. It identifies the most exciting moments based on crowd noise and commentator reactions.
+This application automatically extracts highlight moments from full-length basketball games by analyzing audio peaks. It identifies the most exciting moments based on crowd noise and commentator reactions while filtering out referee whistles.
+
+## Key Features
+
+- **Automatic Highlight Detection**: Finds exciting moments in basketball games based on audio peaks
+- **Referee Whistle Filtering**: Uses frequency analysis to differentiate between whistles and genuine excitement
+- **High-Quality Output**: Downloads videos at the best available quality (up to 1080p)
+- **Customizable Parameters**: Adjust the number of highlights, buffer durations, and more
+- **Highlight Compilation**: Automatically combines individual clips into a single highlight reel
 
 ## Prerequisites
 
@@ -49,19 +57,26 @@ python highlight_extractor.py --url "https://www.youtube.com/watch?v=YOUTUBE_VID
 
 The script will:
 
-1. Download the YouTube video
+1. Download the YouTube video at the highest available quality (up to 1080p)
 2. Extract and analyze the audio track
-3. Identify the loudest moments
+3. Identify the loudest moments and filter out referee whistles
 4. Extract video clips around those moments
 5. Optionally compile them into a single highlight video
 
-Results will be saved in the specified output directory.
+Results will be saved in the specified output directory, including:
+
+- Individual highlight clips
+- Optional compilation video
+- Audio analysis visualizations showing detected peaks and whistle filtering
 
 ## How It Works
 
-1. **Video Downloading**: Uses yt-dlp to download the YouTube video
+1. **Video Downloading**: Uses yt-dlp to download the YouTube video at high quality (up to 1080p)
 2. **Audio Extraction**: Extracts audio using FFmpeg
-3. **Audio Analysis**: Analyzes audio using librosa to find peak moments
+3. **Audio Analysis**:
+   - Calculates audio energy over time
+   - Performs frequency analysis to detect and filter out referee whistles
+   - Finds and ranks the most significant non-whistle peaks
 4. **Clip Extraction**: Extracts video clips around those peaks using FFmpeg
 5. **Compilation**: Combines clips into a single highlight reel
 

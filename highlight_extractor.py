@@ -55,20 +55,55 @@ class HighlightExtractor:
         print(f"Downloading video from {self.url}...")
         
         # Command to download the video with yt-dlp
+        # Using format 'bestvideo[height<=1080]+bestaudio/best' to get highest quality up to 1080p
         cmd = [
             "yt-dlp",
             "--output", self.video_path,
-            "--format", "best[ext=mp4]",
+            "--format", "bestvideo[height<=1080]+bestaudio/best[ext=mp4]/best",
+            "--merge-output-format", "mp4",
             self.url
         ]
         
         try:
             subprocess.run(cmd, check=True)
             print("Video downloaded successfully!")
+            
+            # Validate the video resolution
+            self._validate_video_resolution()
             return True
         except subprocess.CalledProcessError as e:
             print(f"Error downloading video: {e}")
             return False
+
+    def _validate_video_resolution(self):
+        """Validate the resolution of the downloaded video."""
+        try:
+            # Get video information using ffmpeg
+            video_info = ffmpeg.probe(self.video_path)
+            
+            # Extract video stream information
+            video_stream = next((stream for stream in video_info['streams'] 
+                                if stream['codec_type'] == 'video'), None)
+            
+            if video_stream:
+                width = int(video_stream['width'])
+                height = int(video_stream['height'])
+                print(f"Downloaded video resolution: {width}x{height}")
+                
+                # Check if the resolution is 1080p or higher
+                if height >= 1080:
+                    print("Video quality: 1080p or higher (Excellent)")
+                elif height >= 720:
+                    print("Video quality: 720p (Good)")
+                elif height >= 480:
+                    print("Video quality: 480p (Standard)")
+                else:
+                    print("Video quality: Below 480p (Low)")
+                    print("Warning: The video quality is lower than recommended.")
+            else:
+                print("Could not determine video resolution.")
+        except Exception as e:
+            print(f"Error validating video resolution: {e}")
 
     def extract_audio(self):
         """Extract audio from the video using FFmpeg."""
@@ -92,6 +127,7 @@ class HighlightExtractor:
     def analyze_audio(self):
         """
         Analyze the audio to find peak moments using direct WAV file reading.
+        Includes frequency analysis to filter out referee whistles.
         Returns true if analysis was successful.
         """
         print("Analyzing audio for peak moments...")
@@ -134,14 +170,40 @@ class HighlightExtractor:
             energy = []
             times = []
             
+            # Prepare arrays for spectral features
+            # Referee whistles typically have strong energy in 2000-4000 Hz range
+            whistle_feature = []
+            
             for i in range(0, len(samples) - frame_length, hop_length):
                 chunk = samples[i:i + frame_length]
+                
+                # Calculate RMS energy
                 rms = np.sqrt(np.mean(chunk**2))
                 energy.append(rms)
                 times.append(i / frame_rate)
+                
+                # Calculate frequency domain features - FFT
+                fft_result = np.fft.rfft(chunk * np.hamming(len(chunk)))
+                fft_magnitude = np.abs(fft_result)
+                
+                # Calculate frequency bins
+                freq_bins = np.fft.rfftfreq(frame_length, 1/frame_rate)
+                
+                # Calculate whistle feature - energy ratio in whistle frequency range
+                # Referee whistles typically have strong components between 2000-4000 Hz
+                whistle_range_mask = (freq_bins >= 2000) & (freq_bins <= 4000)
+                total_energy = np.sum(fft_magnitude)
+                
+                if total_energy > 0:
+                    whistle_energy_ratio = np.sum(fft_magnitude[whistle_range_mask]) / total_energy
+                else:
+                    whistle_energy_ratio = 0
+                    
+                whistle_feature.append(whistle_energy_ratio)
             
             energy = np.array(energy)
             times = np.array(times)
+            whistle_feature = np.array(whistle_feature)
             
             # Convert to dB scale
             eps = 1e-10  # to avoid log(0)
@@ -153,24 +215,72 @@ class HighlightExtractor:
             # Create dataframe with peaks and their intensities
             peak_df = pd.DataFrame({
                 'time': times[peaks],
-                'intensity': energy_db[peaks]
+                'intensity': energy_db[peaks],
+                'whistle_feature': whistle_feature[peaks]
             })
             
-            # Sort by intensity (loudest first) and take top N
-            peak_df = peak_df.sort_values('intensity', ascending=False).reset_index(drop=True)
-            self.highlight_timestamps = peak_df.head(self.num_highlights)[['time', 'intensity']]
+            # Create a visualization of whistle detection
+            plt.figure(figsize=(15, 10))
             
-            # Plot audio waveform and peaks for visualization
-            plt.figure(figsize=(15, 5))
+            # Plot 1: Audio energy
+            plt.subplot(2, 1, 1)
             plt.plot(times, energy_db)
-            plt.scatter(self.highlight_timestamps['time'], self.highlight_timestamps['intensity'], color='r')
+            plt.scatter(peak_df['time'], peak_df['intensity'], color='r')
             plt.xlabel('Time (s)')
             plt.ylabel('Energy (dB)')
             plt.title('Audio Energy and Detected Peaks')
-            plt.tight_layout()
-            plt.savefig(os.path.join(self.output_dir, 'audio_analysis.png'))
             
-            print(f"Found {len(self.highlight_timestamps)} peak moments.")
+            # Plot 2: Whistle feature
+            plt.subplot(2, 1, 2)
+            plt.plot(times, whistle_feature)
+            plt.scatter(peak_df['time'], peak_df['whistle_feature'], color='g')
+            plt.xlabel('Time (s)')
+            plt.ylabel('Whistle Energy Ratio')
+            plt.title('Whistle Energy Ratio (Higher values indicate likely whistle)')
+            
+            plt.tight_layout()
+            plt.savefig(os.path.join(self.output_dir, 'audio_whistle_analysis.png'))
+            
+            # Filter out likely whistle sounds
+            # Whistles typically have high energy in the 2000-4000 Hz range
+            # We'll consider sounds with whistle_feature > 0.4 as likely whistles
+            WHISTLE_THRESHOLD = 0.4
+            whistle_peaks = peak_df[peak_df['whistle_feature'] > WHISTLE_THRESHOLD]
+            non_whistle_peaks = peak_df[peak_df['whistle_feature'] <= WHISTLE_THRESHOLD]
+            
+            print(f"Found {len(peak_df)} total peaks")
+            print(f"Filtered out {len(whistle_peaks)} likely whistle sounds")
+            print(f"Remaining {len(non_whistle_peaks)} highlight candidates")
+            
+            # Sort by intensity (loudest first) and take top N
+            non_whistle_peaks = non_whistle_peaks.sort_values('intensity', ascending=False).reset_index(drop=True)
+            self.highlight_timestamps = non_whistle_peaks.head(self.num_highlights)[['time', 'intensity']]
+            
+            # Generate another visualization showing filtered peaks
+            plt.figure(figsize=(15, 5))
+            plt.plot(times, energy_db, alpha=0.7)
+            
+            # Plot all peaks in red
+            plt.scatter(peak_df['time'], peak_df['intensity'], color='r', label='All Peaks', alpha=0.5)
+            
+            # Plot filtered out whistle peaks in orange
+            if len(whistle_peaks) > 0:
+                plt.scatter(whistle_peaks['time'], whistle_peaks['intensity'], color='orange', 
+                           marker='x', s=100, label='Filtered Whistle Peaks')
+            
+            # Plot selected non-whistle peaks in green
+            if len(self.highlight_timestamps) > 0:
+                plt.scatter(self.highlight_timestamps['time'], self.highlight_timestamps['intensity'], 
+                           color='g', marker='o', s=100, label='Selected Highlights')
+            
+            plt.xlabel('Time (s)')
+            plt.ylabel('Energy (dB)')
+            plt.title('Audio Peaks with Whistle Detection')
+            plt.legend()
+            plt.tight_layout()
+            plt.savefig(os.path.join(self.output_dir, 'audio_filtered_peaks.png'))
+            
+            print(f"Selected {len(self.highlight_timestamps)} peak moments for highlight extraction.")
             return True
         
         except Exception as e:
