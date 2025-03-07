@@ -128,6 +128,7 @@ class HighlightExtractor:
         """
         Analyze the audio to find peak moments using direct WAV file reading.
         Includes frequency analysis to filter out referee whistles.
+        Ensures highlights are at least 1 minute apart.
         Returns true if analysis was successful.
         """
         print("Analyzing audio for peak moments...")
@@ -210,7 +211,12 @@ class HighlightExtractor:
             energy_db = 20.0 * np.log10(energy + eps)
             
             # Find peaks (loudest moments)
-            peaks, _ = find_peaks(energy_db, height=np.percentile(energy_db, 95), distance=int(frame_rate / hop_length))
+            # Increased minimum distance between peaks to ensure at least 1 minute separation
+            # 1 minute = 60 seconds, so we need distance = 60 / hop_length = 60 / 0.1 = 600 frames
+            min_frames_between_peaks = int(60 / (hop_length / frame_rate))  # 1 minute in frames
+            
+            peaks, _ = find_peaks(energy_db, height=np.percentile(energy_db, 95), 
+                                 distance=min_frames_between_peaks)
             
             # Create dataframe with peaks and their intensities
             peak_df = pd.DataFrame({
@@ -228,7 +234,7 @@ class HighlightExtractor:
             plt.scatter(peak_df['time'], peak_df['intensity'], color='r')
             plt.xlabel('Time (s)')
             plt.ylabel('Energy (dB)')
-            plt.title('Audio Energy and Detected Peaks')
+            plt.title('Audio Energy and Detected Peaks (Minimum 1-minute separation)')
             
             # Plot 2: Whistle feature
             plt.subplot(2, 1, 2)
@@ -275,7 +281,7 @@ class HighlightExtractor:
             
             plt.xlabel('Time (s)')
             plt.ylabel('Energy (dB)')
-            plt.title('Audio Peaks with Whistle Detection')
+            plt.title('Audio Peaks with Whistle Detection and 1-minute Minimum Separation')
             plt.legend()
             plt.tight_layout()
             plt.savefig(os.path.join(self.output_dir, 'audio_filtered_peaks.png'))

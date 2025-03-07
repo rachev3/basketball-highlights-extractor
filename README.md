@@ -6,6 +6,7 @@ This application automatically extracts highlight moments from full-length baske
 
 - **Automatic Highlight Detection**: Finds exciting moments in basketball games based on audio peaks
 - **Referee Whistle Filtering**: Uses frequency analysis to differentiate between whistles and genuine excitement
+- **Well-Distributed Highlights**: Ensures at least 1 minute between highlights for better game coverage
 - **High-Quality Output**: Downloads videos at the best available quality (up to 1080p)
 - **Customizable Parameters**: Adjust the number of highlights, buffer durations, and more
 - **Highlight Compilation**: Automatically combines individual clips into a single highlight reel
@@ -59,7 +60,7 @@ The script will:
 
 1. Download the YouTube video at the highest available quality (up to 1080p)
 2. Extract and analyze the audio track
-3. Identify the loudest moments and filter out referee whistles
+3. Identify the loudest moments, filter out referee whistles, and ensure at least 1 minute between highlights
 4. Extract video clips around those moments
 5. Optionally compile them into a single highlight video
 
@@ -76,6 +77,7 @@ Results will be saved in the specified output directory, including:
 3. **Audio Analysis**:
    - Calculates audio energy over time
    - Performs frequency analysis to detect and filter out referee whistles
+   - Enforces a minimum 1-minute separation between highlights for better distribution
    - Finds and ranks the most significant non-whistle peaks
 4. **Clip Extraction**: Extracts video clips around those peaks using FFmpeg
 5. **Compilation**: Combines clips into a single highlight reel

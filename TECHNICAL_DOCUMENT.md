@@ -44,8 +44,9 @@ For audio analysis, we use the following approach:
 1. **RMS Energy Calculation**: We calculate the root-mean-square (RMS) energy in decibels over short time windows (0.5-second windows with 0.1-second hops)
 2. **Peak Detection**: We use SciPy's `find_peaks` function to identify local maxima in the audio energy
 3. **Frequency Analysis**: We analyze the frequency content of each peak to identify and filter out referee whistles
-4. **Thresholding**: We use a percentile-based threshold (95th percentile) to focus on only the loudest moments
-5. **Selection**: We sort the detected peaks by intensity and select the top N based on user configuration
+4. **Time Separation Enforcement**: We ensure a minimum of 1 minute between detected peaks to avoid clustered highlights
+5. **Thresholding**: We use a percentile-based threshold (95th percentile) to focus on only the loudest moments
+6. **Selection**: We sort the detected peaks by intensity and select the top N based on user configuration
 
 ### 3. Referee Whistle Filtering
 
@@ -58,7 +59,16 @@ To address the issue of referee whistles creating false positive highlights, we 
 
 This approach effectively reduces false positives while preserving genuine highlight moments from crowd reactions and commentator excitement.
 
-### 4. Timestamp Processing
+### 4. Highlight Spacing
+
+To ensure a good distribution of highlights throughout the game and avoid clustering:
+
+1. **Minimum Time Separation**: We enforce a minimum separation of 1 minute between any two highlights
+2. **Peak Detection Configuration**: This is implemented by setting the `distance` parameter in SciPy's `find_peaks` function
+3. **Prioritization**: When multiple peaks occur within a 1-minute window, only the loudest one is retained
+4. **Game Coverage**: This approach improves coverage of the entire game rather than focusing on short intense sequences
+
+### 5. Timestamp Processing
 
 For each identified peak:
 
@@ -68,7 +78,7 @@ For each identified peak:
 
 This approach ensures we capture the full context of each exciting moment, including the build-up and aftermath.
 
-### 5. Video Clip Extraction
+### 6. Video Clip Extraction
 
 For each identified timestamp range:
 
@@ -76,7 +86,7 @@ For each identified timestamp range:
 - We optimize the extraction by using the `-c copy` flag to avoid re-encoding when possible
 - We create unique filenames based on index and timestamp to prevent overwrites
 
-### 6. Highlight Compilation
+### 7. Highlight Compilation
 
 If requested, we compile all highlights into a single video:
 
@@ -107,7 +117,8 @@ The audio analysis uses the following signal processing techniques:
 
 4. **Peak Detection with Constraints**:
    - Height threshold: 95th percentile of all energy values ensures we only select truly loud moments
-   - Distance constraint: Prevents detecting multiple peaks too close to each other (minimum distance of 1 second)
+   - Distance constraint: At least 1 minute (600 frames at 0.1s hop length) between peaks ensures good game coverage
+   - This prevents detecting multiple peaks too close to each other and avoids clustered highlights
 
 ## Performance Considerations
 
@@ -163,4 +174,4 @@ The application includes a testing script (`test_highlight_extractor.py`) that:
 
 ## Conclusion
 
-The Basketball Highlights Extractor effectively utilizes audio peak detection with frequency analysis to identify key moments in basketball games while filtering out referee whistles. The system ensures high-quality video output and is designed to be modular, configurable, and extensible, allowing for future enhancements while providing valuable functionality in its current form.
+The Basketball Highlights Extractor effectively utilizes audio peak detection with frequency analysis to identify key moments in basketball games while filtering out referee whistles. The system ensures high-quality video output with well-distributed highlights spaced at least 1 minute apart. It is designed to be modular, configurable, and extensible, allowing for future enhancements while providing valuable functionality in its current form.
