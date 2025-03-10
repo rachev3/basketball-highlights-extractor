@@ -318,7 +318,7 @@ class HighlightExtractor:
                 # Extract clip using ffmpeg
                 ffmpeg.input(self.video_path, ss=start_time, t=duration).output(
                     output_path, 
-                    c='copy'
+                    # c='copy'
                 ).run(quiet=True, overwrite_output=True)
                 
                 print(f"Extracted highlight {idx+1}/{len(self.highlight_timestamps)}")
