@@ -1,4 +1,0 @@
-# Requirements for Basketball Text Highlights Generator (Assignment 3)
-requests>=2.31.0
-beautifulsoup4>=4.12.2
-lxml>=4.9.3  # HTML parser for BeautifulSoup 

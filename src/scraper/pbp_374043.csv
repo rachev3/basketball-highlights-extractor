@@ -1,0 +1,927 @@
+quarter,time,team,player_name,event_text,home_score,away_score
+Q1,00:00,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q1,00:00,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>блок</div>",,
+Q1,00:00,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>3 стрелба с отскок</div>",,
+Q1,00:10,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>борба в нападение</div>",,
+Q1,00:10,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q1,00:10,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>блок</div>",,
+Q1,00:11,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>борба в нападение</div>",,
+Q1,00:13,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q1,00:27,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q1,00:27,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>борба в защита</div>",,
+Q1,00:27,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>лично нарушение</div>",,
+Q1,00:27,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>понесено нарушение</div>",,
+Q1,00:47,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>3 стрелба с отскок</div>",,
+Q1,00:47,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>асистенция</div>",,
+Q1,01:01,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>борба в защита</div>",,
+Q1,01:04,away,Димитър Мангов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1293-dimityr-mangov"">Димитър Мангов</a>3 стрелба с отскок</div>",,
+Q1,01:20,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>наказателен удар 2от2<br/>успешен (9 точки)</div>",13,12
+Q1,01:29,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>наказателен удар 1от2<br/>неуспешен</div>",,
+Q1,01:46,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>смяна излиза</div>",,
+Q1,01:46,away,Димитър Мангов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1293-dimityr-mangov"">Димитър Мангов</a>смяна влиза</div>",,
+Q1,01:53,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>лично нарушение</div>",,
+Q1,01:53,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>понесено нарушение</div>",,
+Q1,01:54,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>грешка при дрибъл</div>",,
+Q1,01:54,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>борба в нападение</div>",,
+Q1,01:54,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>3 стрелба с отскок</div>",,
+Q1,01:54,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в защита</div>",,
+Q1,01:54,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q1,01:54,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>отнета топка</div>",,
+Q1,01:55,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>опит за стрелба от 2т.<br/>успешен (24 точки)</div>",12,12
+Q1,02:10,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>лично нарушение</div>",,
+Q1,02:10,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>понесено нарушение</div>",,
+Q1,02:12,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в защита</div>",,
+Q1,02:16,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>3 стрелба с отскок</div>",,
+Q1,02:26,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>смяна влиза</div>",,
+Q1,02:26,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>смяна излиза</div>",,
+Q1,02:26,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>смяна излиза</div>",,
+Q1,02:26,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>смяна влиза</div>",,
+Q1,02:36,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>асистенция</div>",,
+Q1,02:36,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>опит за стрелба за 2т., поднасяне<br/>успешен (19 точки)</div>",12,10
+Q1,02:39,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>борба в защита</div>",,
+Q1,02:42,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>блок</div>",,
+Q1,02:42,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q1,02:47,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>отнета топка</div>",,
+Q1,02:47,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>грешка при дрибъл</div>",,
+Q1,02:49,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>борба в защита</div>",,
+Q1,02:51,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>3 стрелба с отскок</div>",,
+Q1,03:17,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>асистенция</div>",,
+Q1,03:17,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>опит за стрелба за 2т., поднасяне<br/>успешен (18 точки)</div>",12,8
+Q1,03:27,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>смяна влиза</div>",,
+Q1,03:27,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>смяна излиза</div>",,
+Q1,03:38,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в защита</div>",,
+Q1,03:40,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q1,03:56,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>грешен пас</div>",,
+Q1,03:56,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>отнета топка</div>",,
+Q1,05:04,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>смяна влиза</div>",,
+Q1,05:04,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>смяна влиза</div>",,
+Q1,05:04,away,Денислав Димитров,"<div class=""div_info"">
+<a class=""player_name"" href=""player-14511-denislav-dimitrov"">Денислав Димитров</a>смяна излиза</div>",,
+Q1,05:15,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>грешка при дрибъл</div>",,
+Q1,05:33,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>опит за стрелба за 2т., поднасяне<br/>успешен (7 точки)</div>",10,6
+Q1,05:38,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>3 стрелба с отскок</div>",,
+Q1,05:56,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>асистенция</div>",,
+Q1,05:56,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>борба в защита</div>",,
+Q1,05:56,away,Денислав Димитров,"<div class=""div_info"">
+<a class=""player_name"" href=""player-14511-denislav-dimitrov"">Денислав Димитров</a>3 стрелба с отскок</div>",,
+Q1,05:56,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>борба в нападение</div>",,
+Q1,05:56,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в защита</div>",,
+Q1,05:56,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>опит за стрелба за 2т., поднасяне<br/>успешен (34 точки)</div>",8,6
+Q1,05:56,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>3 стрелба с отскок</div>",,
+Q1,06:02,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>лично нарушение</div>",,
+Q1,06:02,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>понесено нарушение</div>",,
+Q1,06:14,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>борба в нападение</div>",,
+Q1,06:14,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q1,06:14,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>борба в защита</div>",,
+Q1,06:14,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>3 стрелба с отскок</div>",,
+Q1,06:15,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>лично нарушение</div>",,
+Q1,06:15,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>грешка при дрибъл</div>",,
+Q1,06:18,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>3 секунди</div>",,
+Q1,06:38,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>борба в защита</div>",,
+Q1,06:40,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>наказателен удар 1от1<br/>неуспешен</div>",,
+Q1,07:09,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>лично нарушение</div>",,
+Q1,07:09,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>понесено нарушение</div>",,
+Q1,07:13,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>опит за стрелба за 2т., поднасяне<br/>успешен (39 точки)</div>",5,4
+Q1,07:29,away,Денислав Димитров,"<div class=""div_info"">
+<a class=""player_name"" href=""player-14511-denislav-dimitrov"">Денислав Димитров</a>борба в защита</div>",,
+Q1,07:31,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q1,07:34,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>борба в защита</div>",,
+Q1,07:36,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>3 стрелба с отскок</div>",,
+Q1,07:48,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>борба в защита</div>",,
+Q1,07:51,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>2 стрелба тип флоутър <br/>неуспешен</div>",,
+Q1,08:04,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>3 стрелба с отскок</div>",,
+Q1,08:10,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в защита</div>",,
+Q1,08:12,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q1,08:17,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>грешен пас</div>",,
+Q1,08:17,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>отнета топка</div>",,
+Q1,08:28,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>отнета топка</div>",,
+Q1,08:48,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>асистенция</div>",,
+Q1,08:48,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>опит за стрелба за 2т., поднасяне<br/>успешен (69 точки)</div>",5,2
+Q1,09:14,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>опит за стрелба за 2т., поднасяне<br/>успешен (36 точки)</div>",5,0
+Q1,09:20,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>грешка при дрибъл</div>",,
+Q1,09:20,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>отнета топка</div>",,
+Q1,09:39,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>асистенция</div>",,
+Q1,09:39,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>3 стрелба с отскок</div>",,
+Q1,09:44,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q1,09:58,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>загубена спорна топка</div>",,
+Q1,09:58,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>спечелена спорна топка</div>",,
+Q3,00:07,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>3 стрелба с отскок</div>",,
+Q3,00:38,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>борба в защита</div>",,
+Q3,00:41,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,00:55,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>2 стрелба тип флоутър <br/>успешен (5 точки)</div>",47,41
+Q3,01:07,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>смяна излиза</div>",,
+Q3,01:07,away,Димитър Мангов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1293-dimityr-mangov"">Димитър Мангов</a>смяна влиза</div>",,
+Q3,01:09,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>понесено нарушение</div>",,
+Q3,01:09,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>лично нарушение</div>",,
+Q3,01:10,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>борба в нападение</div>",,
+Q3,01:12,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,01:20,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>борба в защита</div>",,
+Q3,01:23,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>3 стрелба с отскок</div>",,
+Q3,01:37,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>3 стрелба с отскок</div>",,
+Q3,01:49,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в защита</div>",,
+Q3,01:49,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>наказателен удар 1от2<br/>успешен (6 точки)</div>",45,41
+Q3,01:49,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>наказателен удар 2от2<br/>неуспешен</div>",,
+Q3,02:01,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>лично нарушение</div>",,
+Q3,02:01,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>понесено нарушение</div>",,
+Q3,02:02,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>борба в защита</div>",,
+Q3,02:02,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,02:02,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>смяна излиза</div>",,
+Q3,02:02,away,Елин Нешев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10719-elin-neshev"">Елин Нешев</a>смяна влиза</div>",,
+Q3,02:11,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>понесено нарушение</div>",,
+Q3,02:11,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>лично нарушение</div>",,
+Q3,02:15,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>борба в защита</div>",,
+Q3,02:18,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,02:18,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>борба в нападение</div>",,
+Q3,02:22,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>3 стрелба с отскок</div>",,
+Q3,02:31,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>смяна излиза</div>",,
+Q3,02:31,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>2 стрелба тип флоутър <br/>успешен (32 точки)</div>",44,41
+Q3,02:31,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>смяна влиза</div>",,
+Q3,02:41,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>опит за стрелба за 2т., поднасяне<br/>успешен (11 точки)</div>",44,39
+Q3,02:41,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>отнета топка</div>",,
+Q3,02:41,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>грешка при дрибъл</div>",,
+Q3,02:46,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>опит за стрелба за 2т., поднасяне<br/>успешен (10 точки)</div>",42,39
+Q3,02:46,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>асистенция</div>",,
+Q3,02:46,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>неспортсменско нарушение</div>",,
+Q3,02:46,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>грешка нарушение в нападение</div>",,
+Q3,02:46,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>понесено нарушение</div>",,
+Q3,02:46,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>лично нарушение</div>",,
+Q3,02:46,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>понесено нарушение</div>",,
+Q3,02:46,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>наказателен удар 1от1<br/>неуспешен</div>",,
+Q3,02:57,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,02:57,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>блок</div>",,
+Q3,03:08,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>отнета топка</div>",,
+Q3,03:08,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>грешен пас</div>",,
+Q3,03:10,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в защита</div>",,
+Q3,03:12,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,03:34,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>3 стрелба с отскок</div>",,
+Q3,03:44,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>смяна излиза</div>",,
+Q3,03:44,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>смяна влиза</div>",,
+Q3,03:52,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>крачки</div>",,
+Q3,03:58,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>борба в защита</div>",,
+Q3,04:00,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>3 стрелба с отскок</div>",,
+Q3,04:16,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>опит за стрелба за 2т., поднасяне<br/>успешен (14 точки)</div>",42,37
+Q3,04:22,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>наказателен удар 1от1<br/>успешен (49 точки)</div>",40,37
+Q3,04:35,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>асистенция</div>",,
+Q3,04:35,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>3 стрелба с отскок</div>",,
+Q3,04:35,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>лично нарушение</div>",,
+Q3,04:35,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>борба в защита</div>",,
+Q3,04:35,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,04:35,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>понесено нарушение</div>",,
+Q3,04:40,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,04:40,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>блок</div>",,
+Q3,04:50,away,Денислав Димитров,"<div class=""div_info"">
+<a class=""player_name"" href=""player-14511-denislav-dimitrov"">Денислав Димитров</a>смяна излиза</div>",,
+Q3,04:50,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>смяна влиза</div>",,
+Q3,04:50,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>наказателен удар 1от2<br/>неуспешен</div>",,
+Q3,04:50,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>наказателен удар 2от2<br/>неуспешен</div>",,
+Q3,04:50,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>борба в нападение</div>",,
+Q3,04:50,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>смяна влиза</div>",,
+Q3,04:50,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>смяна излиза</div>",,
+Q3,04:50,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>понесено нарушение</div>",,
+Q3,04:50,away,Денислав Димитров,"<div class=""div_info"">
+<a class=""player_name"" href=""player-14511-denislav-dimitrov"">Денислав Димитров</a>лично нарушение</div>",,
+Q3,04:50,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>смяна влиза</div>",,
+Q3,04:52,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>борба в нападение</div>",,
+Q3,04:55,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,04:58,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>борба в защита</div>",,
+Q3,05:01,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>3 стрелба с отскок</div>",,
+Q3,05:13,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в защита</div>",,
+Q3,05:18,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>3 стрелба с отскок</div>",,
+Q3,05:32,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>2 стрелба тип флоутър <br/>успешен (32 точки)</div>",40,33
+Q3,05:47,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в защита</div>",,
+Q3,05:50,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,05:50,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>блок</div>",,
+Q3,06:09,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>смяна излиза</div>",,
+Q3,06:09,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>смяна излиза</div>",,
+Q3,06:09,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>смяна влиза</div>",,
+Q3,06:09,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>смяна влиза</div>",,
+Q3,06:14,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>асистенция</div>",,
+Q3,06:14,away,Денислав Димитров,"<div class=""div_info"">
+<a class=""player_name"" href=""player-14511-denislav-dimitrov"">Денислав Димитров</a>3 стрелба с отскок</div>",,
+Q3,06:30,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,06:42,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>борба в защита</div>",,
+Q3,06:45,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>3 стрелба с отскок</div>",,
+Q3,06:58,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>борба в защита</div>",,
+Q3,07:00,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,07:22,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>опит за стрелба за 2т., поднасяне<br/>успешен (45 точки)</div>",40,28
+Q3,07:22,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>асистенция</div>",,
+Q3,07:46,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>асистенция</div>",,
+Q3,07:46,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>опит за стрелба за 2т., поднасяне<br/>успешен (43 точки)</div>",40,26
+Q3,07:49,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,08:08,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>опит за стрелба за 2т., поднасяне<br/>успешен (33 точки)</div>",38,26
+Q3,08:15,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>борба в защита</div>",,
+Q3,08:20,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,08:24,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>наказателен удар 2от2<br/>успешен (46 точки)</div>",36,26
+Q3,08:36,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>наказателен удар 1от2<br/>успешен (47 точки)</div>",35,26
+Q3,09:00,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>лично нарушение</div>",,
+Q3,09:00,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>понесено нарушение</div>",,
+Q3,09:00,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>борба в нападение</div>",,
+Q3,09:04,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,09:09,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>борба в защита</div>",,
+Q3,09:11,away,Денислав Димитров,"<div class=""div_info"">
+<a class=""player_name"" href=""player-14511-denislav-dimitrov"">Денислав Димитров</a>3 стрелба с отскок</div>",,
+Q3,09:19,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в защита</div>",,
+Q3,09:19,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,09:19,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q3,09:19,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>борба в защита</div>",,
+Q3,09:19,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>крачки</div>",,
+Q3,09:37,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>грешен пас</div>",,
+Q3,09:47,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>борба в защита</div>",,
+Q3,09:52,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>3 стрелба с отскок</div>",,
+Q3,10:00,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>смяна излиза</div>",,
+Q3,10:00,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>смяна влиза</div>",,
+Q3,10:00,away,Димитър Мангов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1293-dimityr-mangov"">Димитър Мангов</a>смяна излиза</div>",,
+Q3,10:00,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>смяна влиза</div>",,
+Q3,10:00,away,Денислав Димитров,"<div class=""div_info"">
+<a class=""player_name"" href=""player-14511-denislav-dimitrov"">Денислав Димитров</a>смяна влиза</div>",,
+Q3,10:00,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>смяна излиза</div>",,
+Q2,00:10,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>асистенция</div>",,
+Q2,00:10,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>3 стрелба с отскок</div>",,
+Q2,00:27,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>опит за стрелба за 2т., поднасяне<br/>успешен (2 точки)</div>",31,26
+Q2,00:57,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>смяна излиза</div>",,
+Q2,00:57,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>смяна влиза</div>",,
+Q2,00:57,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>смяна излиза</div>",,
+Q2,00:57,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>смяна влиза</div>",,
+Q2,01:03,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>опит за стрелба от 2т.<br/>успешен (9 точки)</div>",31,24
+Q2,01:14,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>борба в защита</div>",,
+Q2,01:16,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q2,01:35,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>2 стрелба тип флоутър <br/>успешен (2 точки)</div>",29,24
+Q2,01:56,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>3 стрелба с отскок</div>",,
+Q2,01:56,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>асистенция</div>",,
+Q2,02:10,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>смяна влиза</div>",,
+Q2,02:10,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>смяна излиза</div>",,
+Q2,02:10,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>асистенция</div>",,
+Q2,02:59,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>2 стрелба тип флоутър <br/>успешен (36 точки)</div>",24,21
+Q2,03:04,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>борба в защита</div>",,
+Q2,03:07,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q2,03:13,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>3 стрелба с отскок</div>",,
+Q2,03:24,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>грешен пас</div>",,
+Q2,03:24,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>отнета топка</div>",,
+Q2,03:29,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>3 стрелба с отскок</div>",,
+Q2,03:29,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>опит за стрелба за 2т., поднасяне<br/>успешен (20 точки)</div>",24,19
+Q2,03:29,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>асистенция</div>",,
+Q2,03:29,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>борба в нападение</div>",,
+Q2,03:34,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>понесено нарушение</div>",,
+Q2,03:42,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в защита</div>",,
+Q2,03:44,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q2,03:49,away,Димитър Мангов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1293-dimityr-mangov"">Димитър Мангов</a>смяна влиза</div>",,
+Q2,03:49,away,Елин Нешев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10719-elin-neshev"">Елин Нешев</a>смяна излиза</div>",,
+Q2,03:49,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>3 стрелба с отскок</div>",,
+Q2,04:14,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>наказателен удар 2от2<br/>успешен (27 точки)</div>",24,17
+Q2,04:14,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>наказателен удар 1от2<br/>неуспешен</div>",,
+Q2,04:16,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>лично нарушение</div>",,
+Q2,04:16,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>понесено нарушение</div>",,
+Q2,04:23,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>борба в защита</div>",,
+Q2,04:26,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q2,05:04,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>смяна влиза</div>",,
+Q2,05:04,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>смяна излиза</div>",,
+Q2,05:08,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>понесено нарушение</div>",,
+Q2,05:08,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>лично нарушение</div>",,
+Q2,05:09,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в защита</div>",,
+Q2,05:12,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>3 стрелба с отскок</div>",,
+Q2,05:24,away,Елин Нешев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10719-elin-neshev"">Елин Нешев</a>3 стрелба с отскок</div>",,
+Q2,05:24,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>асистенция</div>",,
+Q2,05:40,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>опит за стрелба за 2т., поднасяне<br/>успешен (42 точки)</div>",23,14
+Q2,05:40,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>асистенция</div>",,
+Q2,05:43,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>борба в защита</div>",,
+Q2,05:46,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q2,06:02,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>асистенция</div>",,
+Q2,06:02,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>опит за стрелба за 2т., поднасяне<br/>успешен (25 точки)</div>",21,14
+Q2,06:05,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>борба в защита</div>",,
+Q2,06:07,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q2,06:19,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>смяна влиза</div>",,
+Q2,06:19,away,Денислав Димитров,"<div class=""div_info"">
+<a class=""player_name"" href=""player-14511-denislav-dimitrov"">Денислав Димитров</a>смяна излиза</div>",,
+Q2,06:19,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>смяна влиза</div>",,
+Q2,06:19,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>смяна излиза</div>",,
+Q2,06:19,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q2,06:19,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в нападение</div>",,
+Q2,06:19,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q2,06:19,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>борба в защита</div>",,
+Q2,06:19,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>нарушение в нападение</div>",,
+Q2,06:19,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>грешка нарушение в нападение</div>",,
+Q2,06:19,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>понесено нарушение</div>",,
+Q2,06:24,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в защита</div>",,
+Q2,06:27,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>3 стрелба с отскок</div>",,
+Q2,06:48,away,Елин Нешев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10719-elin-neshev"">Елин Нешев</a>грешен пас</div>",,
+Q2,07:05,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>наказателен удар 3от3<br/>неуспешен</div>",,
+Q2,07:05,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>наказателен удар 2от3<br/>неуспешен</div>",,
+Q2,07:05,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>асистенция</div>",,
+Q2,07:05,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>наказателен удар 1от3<br/>успешен (21 точки)</div>",19,14
+Q2,07:05,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>борба в защита</div>",,
+Q2,07:12,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>понесено нарушение</div>",,
+Q2,07:12,away,Елин Нешев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10719-elin-neshev"">Елин Нешев</a>лично нарушение</div>",,
+Q2,07:30,away,Елин Нешев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10719-elin-neshev"">Елин Нешев</a>опит за стрелба за 2т., поднасяне<br/>успешен (25 точки)</div>",18,14
+Q2,07:35,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>смяна излиза</div>",,
+Q2,07:35,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>смяна излиза</div>",,
+Q2,07:35,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>смяна влиза</div>",,
+Q2,07:35,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>смяна излиза</div>",,
+Q2,07:35,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>смяна влиза</div>",,
+Q2,07:50,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q2,08:06,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>борба в нападение</div>",,
+Q2,08:09,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>3 стрелба с отскок</div>",,
+Q2,08:26,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>смяна влиза</div>",,
+Q2,08:26,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>смяна излиза</div>",,
+Q2,08:26,away,Елин Нешев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10719-elin-neshev"">Елин Нешев</a>смяна влиза</div>",,
+Q2,08:26,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>смяна излиза</div>",,
+Q2,08:31,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>3 стрелба с отскок</div>",,
+Q2,08:58,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>опит за стрелба за 2т., поднасяне<br/>успешен (24 точки)</div>",18,12
+Q2,08:58,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>асистенция</div>",,
+Q2,09:01,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>борба в защита</div>",,
+Q2,09:04,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q2,09:06,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>борба в нападение</div>",,
+Q2,09:08,away,Денислав Димитров,"<div class=""div_info"">
+<a class=""player_name"" href=""player-14511-denislav-dimitrov"">Денислав Димитров</a>3 стрелба с отскок</div>",,
+Q2,09:19,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>борба в защита</div>",,
+Q2,09:22,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>2 стрелба тип флоутър <br/>неуспешен</div>",,
+Q2,09:30,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>борба в защита</div>",,
+Q2,09:33,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q2,09:34,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в нападение</div>",,
+Q2,09:35,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q2,09:40,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>борба в защита</div>",,
+Q2,09:43,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q2,09:49,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>грешен пас</div>",,
+Q2,09:49,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>отнета топка</div>",,
+Q2,10:00,away,Денислав Димитров,"<div class=""div_info"">
+<a class=""player_name"" href=""player-14511-denislav-dimitrov"">Денислав Димитров</a>смяна влиза</div>",,
+Q2,10:00,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>смяна влиза</div>",,
+Q2,10:00,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>смяна излиза</div>",,
+Q2,10:00,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>смяна влиза</div>",,
+Q2,10:00,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>смяна излиза</div>",,
+Q2,10:00,away,Димитър Мангов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1293-dimityr-mangov"">Димитър Мангов</a>смяна излиза</div>",,
+Q4,00:17,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>3 стрелба с отскок</div>",,
+Q4,00:22,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>понесено нарушение</div>",,
+Q4,00:22,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>наказателен удар 1от2<br/>неуспешен</div>",,
+Q4,00:22,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>лично нарушение</div>",,
+Q4,00:22,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>наказателен удар 2от2<br/>неуспешен</div>",,
+Q4,00:23,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>лично нарушение</div>",,
+Q4,00:23,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>понесено нарушение</div>",,
+Q4,00:23,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>2 стрелба тип флоутър <br/>успешен (5 точки)</div>",67,63
+Q4,00:42,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>опит за стрелба за 2т., поднасяне<br/>успешен (5 точки)</div>",67,61
+Q4,00:49,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>понесено нарушение</div>",,
+Q4,00:49,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>лично нарушение</div>",,
+Q4,00:49,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>3 стрелба с отскок</div>",,
+Q4,00:49,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>асистенция</div>",,
+Q4,00:49,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>3 стрелба с отскок</div>",,
+Q4,00:49,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>борба в нападение</div>",,
+Q4,00:50,home,Цветослав Митев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3990-cvetoslav-mitev"">Цветослав Митев</a>смяна влиза</div>",,
+Q4,00:50,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>смяна излиза</div>",,
+Q4,00:50,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>понесено нарушение</div>",,
+Q4,00:50,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>грешка нарушение в нападение</div>",,
+Q4,00:50,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>нарушение в нападение</div>",,
+Q4,01:05,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>наказателен удар 2от2<br/>неуспешен</div>",,
+Q4,01:05,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>наказателен удар 1от2<br/>неуспешен</div>",,
+Q4,01:23,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>понесено нарушение</div>",,
+Q4,01:24,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>борба в защита</div>",,
+Q4,01:40,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>наказателен удар 1от2<br/>успешен (16 точки)</div>",65,57
+Q4,01:40,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>лично нарушение</div>",,
+Q4,01:40,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>понесено нарушение</div>",,
+Q4,01:40,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>наказателен удар 2от2<br/>успешен (18 точки)</div>",65,58
+Q4,01:45,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в нападение</div>",,
+Q4,01:47,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q4,02:09,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>смяна излиза</div>",,
+Q4,02:09,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>смяна влиза</div>",,
+Q4,02:09,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>наказателен удар 1от1<br/>успешен (28 точки)</div>",65,56
+Q4,02:12,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a></div>",,
+Q4,02:18,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>опит за стрелба от 2т.<br/>успешен (22 точки)</div>",65,55
+Q4,02:23,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>борба в защита</div>",,
+Q4,02:26,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>3 стрелба с отскок</div>",,
+Q4,02:34,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>отнета топка</div>",,
+Q4,02:34,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>грешен пас</div>",,
+Q4,02:41,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>опит за стрелба от 2т.<br/>успешен (34 точки)</div>",63,55
+Q4,02:51,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>понесено нарушение</div>",,
+Q4,02:51,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>лично нарушение</div>",,
+Q4,02:59,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>грешен пас</div>",,
+Q4,02:59,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>отнета топка</div>",,
+Q4,03:03,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>отнета топка</div>",,
+Q4,03:03,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>грешен пас</div>",,
+Q4,03:14,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>2 стрелба тип флоутър <br/>успешен (26 точки)</div>",63,53
+Q4,03:15,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>борба в нападение</div>",,
+Q4,03:20,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>блок</div>",,
+Q4,03:20,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q4,03:45,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>смяна излиза</div>",,
+Q4,03:45,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>смяна влиза</div>",,
+Q4,03:50,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>2 стрелба тип флоутър <br/>успешен (22 точки)</div>",61,53
+Q4,03:50,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>асистенция</div>",,
+Q4,04:03,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>асистенция</div>",,
+Q4,04:07,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>борба в защита</div>",,
+Q4,04:10,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>3 стрелба с отскок</div>",,
+Q4,04:23,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>борба в защита</div>",,
+Q4,04:25,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>3 стрелба с отскок</div>",,
+Q4,04:30,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>смяна влиза</div>",,
+Q4,04:30,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>смяна излиза</div>",,
+Q4,04:44,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>2 стрелба тип флоутър <br/>успешен (36 точки)</div>",59,51
+Q4,04:51,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>понесено нарушение</div>",,
+Q4,04:51,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>смяна влиза</div>",,
+Q4,04:51,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>лично нарушение</div>",,
+Q4,04:51,away,Денислав Димитров,"<div class=""div_info"">
+<a class=""player_name"" href=""player-14511-denislav-dimitrov"">Денислав Димитров</a>смяна излиза</div>",,
+Q4,04:57,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q4,05:21,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>наказателен удар 2от2<br/>успешен (31 точки)</div>",59,49
+Q4,05:31,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>наказателен удар 1от2<br/>неуспешен</div>",,
+Q4,05:31,away,Елин Нешев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10719-elin-neshev"">Елин Нешев</a>лично нарушение</div>",,
+Q4,05:31,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>смяна влиза</div>",,
+Q4,05:31,home,Андреан Деков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-18487-andrean-dekov"">Андреан Деков</a>понесено нарушение</div>",,
+Q4,05:31,away,Елин Нешев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10719-elin-neshev"">Елин Нешев</a>смяна излиза</div>",,
+Q4,05:37,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>отнета топка</div>",,
+Q4,05:37,away,Елин Нешев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10719-elin-neshev"">Елин Нешев</a>грешка при дрибъл</div>",,
+Q4,06:06,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>2 стрелба тип флоутър <br/>успешен (67 точки)</div>",56,49
+Q4,06:29,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>смяна излиза</div>",,
+Q4,06:29,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>смяна излиза</div>",,
+Q4,06:29,away,Елин Нешев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10719-elin-neshev"">Елин Нешев</a>смяна влиза</div>",,
+Q4,06:29,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>смяна влиза</div>",,
+Q4,06:40,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>грешка при дрибъл</div>",,
+Q4,06:55,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>смяна излиза</div>",,
+Q4,06:55,away,Стефан Милев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13416-stefan-milev"">Стефан Милев</a>смяна влиза</div>",,
+Q4,06:55,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>смяна излиза</div>",,
+Q4,06:55,home,Теодор Върбанов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-21943-teodor-vyrbanov"">Теодор Върбанов</a>смяна влиза</div>",,
+Q4,07:03,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>3 стрелба с отскок</div>",,
+Q4,07:22,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>2 стрелба тип флоутър <br/>успешен (75 точки)</div>",52,47
+Q4,07:22,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>асистенция</div>",,
+Q4,07:32,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>отнета топка</div>",,
+Q4,07:32,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>грешен пас</div>",,
+Q4,07:43,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>борба в защита</div>",,
+Q4,07:45,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в нападение</div>",,
+Q4,07:45,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q4,07:47,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q4,07:48,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в нападение</div>",,
+Q4,07:50,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q4,07:57,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>борба в защита</div>",,
+Q4,08:00,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>опит за стрелба за 2т., поднасяне<br/>неуспешен</div>",,
+Q4,08:05,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>отнета топка</div>",,
+Q4,08:05,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>грешка при дрибъл</div>",,
+Q4,08:25,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>асистенция</div>",,
+Q4,08:25,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>3 стрелба с отскок</div>",,
+Q4,08:42,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>асистенция</div>",,
+Q4,08:42,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>опит за стрелба за 2т., поднасяне<br/>успешен (54 точки)</div>",49,45
+Q4,09:06,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>опит за стрелба за 2т., поднасяне<br/>успешен (34 точки)</div>",49,43
+Q4,09:20,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>борба в защита</div>",,
+Q4,09:22,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>3 стрелба с отскок</div>",,
+Q4,09:43,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>борба в защита</div>",,
+Q4,09:43,away,Йосиф Омар,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10398-iosif-omar"">Йосиф Омар</a>опит за стрелба за 2т., поднасяне<br/>успешен (61 точки)</div>",47,43
+Q4,09:43,away,Димитър Рачев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13187-dimityr-rachev"">Димитър Рачев</a>асистенция</div>",,
+Q4,09:43,home,Максим Наумов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-26485-maksim-naumov"">Максим Наумов</a>опит за стрелба от 2т.<br/>неуспешен</div>",,
+Q4,09:43,home,Антонио Станков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1445-antonio-stankov"">Антонио Станков</a>3 стрелба с отскок</div>",,
+Q4,09:43,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>лично нарушение</div>",,
+Q4,09:43,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>понесено нарушение</div>",,
+Q4,09:50,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>върната топка</div>",,
+Q4,10:00,away,Денислав Димитров,"<div class=""div_info"">
+<a class=""player_name"" href=""player-14511-denislav-dimitrov"">Денислав Димитров</a>смяна влиза</div>",,
+Q4,10:00,away,Димитър Балъков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17394-dimityr-balykov"">Димитър Балъков</a>смяна влиза</div>",,
+Q4,10:00,home,Константин Търновски,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13091-konstantin-tyrnovski"">Константин Търновски</a>смяна влиза</div>",,
+Q4,10:00,home,Стефан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-3985-stefan-ivanov"">Стефан Иванов</a>смяна излиза</div>",,
+Q4,10:00,home,Валери Пейков,"<div class=""div_info"">
+<a class=""player_name"" href=""player-9382-valeri-peikov"">Валери Пейков</a>смяна излиза</div>",,
+Q4,10:00,away,Елин Нешев,"<div class=""div_info"">
+<a class=""player_name"" href=""player-10719-elin-neshev"">Елин Нешев</a>смяна излиза</div>",,
+Q4,10:00,away,Димитър Мангов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-1293-dimityr-mangov"">Димитър Мангов</a>смяна излиза</div>",,
+Q4,10:00,away,Йордан Иванов,"<div class=""div_info"">
+<a class=""player_name"" href=""player-13846-iordan-ivanov"">Йордан Иванов</a>смяна излиза</div>",,
+Q4,10:00,away,Дзежен Дай,"<div class=""div_info"">
+<a class=""player_name"" href=""player-17432-dzejen-dai"">Дзежен Дай</a>смяна влиза</div>",,

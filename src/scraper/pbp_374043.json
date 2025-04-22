@@ -1,0 +1,4169 @@
+[
+  {
+    "quarter": "Q1",
+    "time": "00:00",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "00:00",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>блок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "00:00",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "00:10",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "00:10",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "00:10",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>блок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "00:11",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "00:13",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "00:27",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "00:27",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "00:27",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "00:27",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "00:47",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "00:47",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:01",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:04",
+    "team": "away",
+    "player_name": "Димитър Мангов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1293-dimityr-mangov\">Димитър Мангов</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:20",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>наказателен удар 2от2<br/>успешен (9 точки)</div>",
+    "home_score": 13,
+    "away_score": 12
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:29",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>наказателен удар 1от2<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:46",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:46",
+    "team": "away",
+    "player_name": "Димитър Мангов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1293-dimityr-mangov\">Димитър Мангов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:53",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:53",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:54",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>грешка при дрибъл</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:54",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:54",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:54",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:54",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:54",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "01:55",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>опит за стрелба от 2т.<br/>успешен (24 точки)</div>",
+    "home_score": 12,
+    "away_score": 12
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:10",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:10",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:12",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:16",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:26",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:26",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:26",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:26",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:36",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:36",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>опит за стрелба за 2т., поднасяне<br/>успешен (19 точки)</div>",
+    "home_score": 12,
+    "away_score": 10
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:39",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:42",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>блок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:42",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:47",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:47",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>грешка при дрибъл</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:49",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "02:51",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "03:17",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "03:17",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>опит за стрелба за 2т., поднасяне<br/>успешен (18 точки)</div>",
+    "home_score": 12,
+    "away_score": 8
+  },
+  {
+    "quarter": "Q1",
+    "time": "03:27",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "03:27",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "03:38",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "03:40",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "03:56",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>грешен пас</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "03:56",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "05:04",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "05:04",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "05:04",
+    "team": "away",
+    "player_name": "Денислав Димитров",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-14511-denislav-dimitrov\">Денислав Димитров</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "05:15",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>грешка при дрибъл</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "05:33",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>опит за стрелба за 2т., поднасяне<br/>успешен (7 точки)</div>",
+    "home_score": 10,
+    "away_score": 6
+  },
+  {
+    "quarter": "Q1",
+    "time": "05:38",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "05:56",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "05:56",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "05:56",
+    "team": "away",
+    "player_name": "Денислав Димитров",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-14511-denislav-dimitrov\">Денислав Димитров</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "05:56",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "05:56",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "05:56",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>опит за стрелба за 2т., поднасяне<br/>успешен (34 точки)</div>",
+    "home_score": 8,
+    "away_score": 6
+  },
+  {
+    "quarter": "Q1",
+    "time": "05:56",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "06:02",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "06:02",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "06:14",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "06:14",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "06:14",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "06:14",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "06:15",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "06:15",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>грешка при дрибъл</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "06:18",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>3 секунди</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "06:38",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "06:40",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>наказателен удар 1от1<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "07:09",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "07:09",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "07:13",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>опит за стрелба за 2т., поднасяне<br/>успешен (39 точки)</div>",
+    "home_score": 5,
+    "away_score": 4
+  },
+  {
+    "quarter": "Q1",
+    "time": "07:29",
+    "team": "away",
+    "player_name": "Денислав Димитров",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-14511-denislav-dimitrov\">Денислав Димитров</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "07:31",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "07:34",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "07:36",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "07:48",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "07:51",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>2 стрелба тип флоутър <br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "08:04",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "08:10",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "08:12",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "08:17",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>грешен пас</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "08:17",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "08:28",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "08:48",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "08:48",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>опит за стрелба за 2т., поднасяне<br/>успешен (69 точки)</div>",
+    "home_score": 5,
+    "away_score": 2
+  },
+  {
+    "quarter": "Q1",
+    "time": "09:14",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>опит за стрелба за 2т., поднасяне<br/>успешен (36 точки)</div>",
+    "home_score": 5,
+    "away_score": 0
+  },
+  {
+    "quarter": "Q1",
+    "time": "09:20",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>грешка при дрибъл</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "09:20",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "09:39",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "09:39",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "09:44",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "09:58",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>загубена спорна топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q1",
+    "time": "09:58",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>спечелена спорна топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "00:07",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "00:38",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "00:41",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "00:55",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>2 стрелба тип флоутър <br/>успешен (5 точки)</div>",
+    "home_score": 47,
+    "away_score": 41
+  },
+  {
+    "quarter": "Q3",
+    "time": "01:07",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "01:07",
+    "team": "away",
+    "player_name": "Димитър Мангов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1293-dimityr-mangov\">Димитър Мангов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "01:09",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "01:09",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "01:10",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "01:12",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "01:20",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "01:23",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "01:37",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "01:49",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "01:49",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>наказателен удар 1от2<br/>успешен (6 точки)</div>",
+    "home_score": 45,
+    "away_score": 41
+  },
+  {
+    "quarter": "Q3",
+    "time": "01:49",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>наказателен удар 2от2<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:01",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:01",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:02",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:02",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:02",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:02",
+    "team": "away",
+    "player_name": "Елин Нешев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10719-elin-neshev\">Елин Нешев</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:11",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:11",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:15",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:18",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:18",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:22",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:31",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:31",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>2 стрелба тип флоутър <br/>успешен (32 точки)</div>",
+    "home_score": 44,
+    "away_score": 41
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:31",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:41",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>опит за стрелба за 2т., поднасяне<br/>успешен (11 точки)</div>",
+    "home_score": 44,
+    "away_score": 39
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:41",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:41",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>грешка при дрибъл</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:46",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>опит за стрелба за 2т., поднасяне<br/>успешен (10 точки)</div>",
+    "home_score": 42,
+    "away_score": 39
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:46",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:46",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>неспортсменско нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:46",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>грешка нарушение в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:46",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:46",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:46",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:46",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>наказателен удар 1от1<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:57",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "02:57",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>блок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "03:08",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "03:08",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>грешен пас</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "03:10",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "03:12",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "03:34",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "03:44",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "03:44",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "03:52",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>крачки</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "03:58",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:00",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:16",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>опит за стрелба за 2т., поднасяне<br/>успешен (14 точки)</div>",
+    "home_score": 42,
+    "away_score": 37
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:22",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>наказателен удар 1от1<br/>успешен (49 точки)</div>",
+    "home_score": 40,
+    "away_score": 37
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:35",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:35",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:35",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:35",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:35",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:35",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:40",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:40",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>блок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:50",
+    "team": "away",
+    "player_name": "Денислав Димитров",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-14511-denislav-dimitrov\">Денислав Димитров</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:50",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:50",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>наказателен удар 1от2<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:50",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>наказателен удар 2от2<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:50",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:50",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:50",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:50",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:50",
+    "team": "away",
+    "player_name": "Денислав Димитров",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-14511-denislav-dimitrov\">Денислав Димитров</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:50",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:52",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:55",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "04:58",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "05:01",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "05:13",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "05:18",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "05:32",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>2 стрелба тип флоутър <br/>успешен (32 точки)</div>",
+    "home_score": 40,
+    "away_score": 33
+  },
+  {
+    "quarter": "Q3",
+    "time": "05:47",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "05:50",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "05:50",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>блок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "06:09",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "06:09",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "06:09",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "06:09",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "06:14",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "06:14",
+    "team": "away",
+    "player_name": "Денислав Димитров",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-14511-denislav-dimitrov\">Денислав Димитров</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "06:30",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "06:42",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "06:45",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "06:58",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "07:00",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "07:22",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>опит за стрелба за 2т., поднасяне<br/>успешен (45 точки)</div>",
+    "home_score": 40,
+    "away_score": 28
+  },
+  {
+    "quarter": "Q3",
+    "time": "07:22",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "07:46",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "07:46",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>опит за стрелба за 2т., поднасяне<br/>успешен (43 точки)</div>",
+    "home_score": 40,
+    "away_score": 26
+  },
+  {
+    "quarter": "Q3",
+    "time": "07:49",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "08:08",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>опит за стрелба за 2т., поднасяне<br/>успешен (33 точки)</div>",
+    "home_score": 38,
+    "away_score": 26
+  },
+  {
+    "quarter": "Q3",
+    "time": "08:15",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "08:20",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "08:24",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>наказателен удар 2от2<br/>успешен (46 точки)</div>",
+    "home_score": 36,
+    "away_score": 26
+  },
+  {
+    "quarter": "Q3",
+    "time": "08:36",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>наказателен удар 1от2<br/>успешен (47 точки)</div>",
+    "home_score": 35,
+    "away_score": 26
+  },
+  {
+    "quarter": "Q3",
+    "time": "09:00",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "09:00",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "09:00",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "09:04",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "09:09",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "09:11",
+    "team": "away",
+    "player_name": "Денислав Димитров",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-14511-denislav-dimitrov\">Денислав Димитров</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "09:19",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "09:19",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "09:19",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "09:19",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "09:19",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>крачки</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "09:37",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>грешен пас</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "09:47",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "09:52",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "10:00",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "10:00",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Димитър Мангов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1293-dimityr-mangov\">Димитър Мангов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Денислав Димитров",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-14511-denislav-dimitrov\">Денислав Димитров</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q3",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "00:10",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "00:10",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "00:27",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>опит за стрелба за 2т., поднасяне<br/>успешен (2 точки)</div>",
+    "home_score": 31,
+    "away_score": 26
+  },
+  {
+    "quarter": "Q2",
+    "time": "00:57",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "00:57",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "00:57",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "00:57",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "01:03",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>опит за стрелба от 2т.<br/>успешен (9 точки)</div>",
+    "home_score": 31,
+    "away_score": 24
+  },
+  {
+    "quarter": "Q2",
+    "time": "01:14",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "01:16",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "01:35",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>2 стрелба тип флоутър <br/>успешен (2 точки)</div>",
+    "home_score": 29,
+    "away_score": 24
+  },
+  {
+    "quarter": "Q2",
+    "time": "01:56",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "01:56",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "02:10",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "02:10",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "02:10",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "02:59",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>2 стрелба тип флоутър <br/>успешен (36 точки)</div>",
+    "home_score": 24,
+    "away_score": 21
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:04",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:07",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:13",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:24",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>грешен пас</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:24",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:29",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:29",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>опит за стрелба за 2т., поднасяне<br/>успешен (20 точки)</div>",
+    "home_score": 24,
+    "away_score": 19
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:29",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:29",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:34",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:42",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:44",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:49",
+    "team": "away",
+    "player_name": "Димитър Мангов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1293-dimityr-mangov\">Димитър Мангов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:49",
+    "team": "away",
+    "player_name": "Елин Нешев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10719-elin-neshev\">Елин Нешев</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "03:49",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "04:14",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>наказателен удар 2от2<br/>успешен (27 точки)</div>",
+    "home_score": 24,
+    "away_score": 17
+  },
+  {
+    "quarter": "Q2",
+    "time": "04:14",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>наказателен удар 1от2<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "04:16",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "04:16",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "04:23",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "04:26",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "05:04",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "05:04",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "05:08",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "05:08",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "05:09",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "05:12",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "05:24",
+    "team": "away",
+    "player_name": "Елин Нешев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10719-elin-neshev\">Елин Нешев</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "05:24",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "05:40",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>опит за стрелба за 2т., поднасяне<br/>успешен (42 точки)</div>",
+    "home_score": 23,
+    "away_score": 14
+  },
+  {
+    "quarter": "Q2",
+    "time": "05:40",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "05:43",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "05:46",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:02",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:02",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>опит за стрелба за 2т., поднасяне<br/>успешен (25 точки)</div>",
+    "home_score": 21,
+    "away_score": 14
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:05",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:07",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:19",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:19",
+    "team": "away",
+    "player_name": "Денислав Димитров",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-14511-denislav-dimitrov\">Денислав Димитров</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:19",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:19",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:19",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:19",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:19",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:19",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:19",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>нарушение в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:19",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>грешка нарушение в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:19",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:24",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:27",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "06:48",
+    "team": "away",
+    "player_name": "Елин Нешев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10719-elin-neshev\">Елин Нешев</a>грешен пас</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "07:05",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>наказателен удар 3от3<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "07:05",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>наказателен удар 2от3<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "07:05",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "07:05",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>наказателен удар 1от3<br/>успешен (21 точки)</div>",
+    "home_score": 19,
+    "away_score": 14
+  },
+  {
+    "quarter": "Q2",
+    "time": "07:05",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "07:12",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "07:12",
+    "team": "away",
+    "player_name": "Елин Нешев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10719-elin-neshev\">Елин Нешев</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "07:30",
+    "team": "away",
+    "player_name": "Елин Нешев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10719-elin-neshev\">Елин Нешев</a>опит за стрелба за 2т., поднасяне<br/>успешен (25 точки)</div>",
+    "home_score": 18,
+    "away_score": 14
+  },
+  {
+    "quarter": "Q2",
+    "time": "07:35",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "07:35",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "07:35",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "07:35",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "07:35",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "07:50",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "08:06",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "08:09",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "08:26",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "08:26",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "08:26",
+    "team": "away",
+    "player_name": "Елин Нешев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10719-elin-neshev\">Елин Нешев</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "08:26",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "08:31",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "08:58",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>опит за стрелба за 2т., поднасяне<br/>успешен (24 точки)</div>",
+    "home_score": 18,
+    "away_score": 12
+  },
+  {
+    "quarter": "Q2",
+    "time": "08:58",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "09:01",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "09:04",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "09:06",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "09:08",
+    "team": "away",
+    "player_name": "Денислав Димитров",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-14511-denislav-dimitrov\">Денислав Димитров</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "09:19",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "09:22",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>2 стрелба тип флоутър <br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "09:30",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "09:33",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "09:34",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "09:35",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "09:40",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "09:43",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "09:49",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>грешен пас</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "09:49",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Денислав Димитров",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-14511-denislav-dimitrov\">Денислав Димитров</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q2",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Димитър Мангов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1293-dimityr-mangov\">Димитър Мангов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:17",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:22",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:22",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>наказателен удар 1от2<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:22",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:22",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>наказателен удар 2от2<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:23",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:23",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:23",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>2 стрелба тип флоутър <br/>успешен (5 точки)</div>",
+    "home_score": 67,
+    "away_score": 63
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:42",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>опит за стрелба за 2т., поднасяне<br/>успешен (5 точки)</div>",
+    "home_score": 67,
+    "away_score": 61
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:49",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:49",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:49",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:49",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:49",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:49",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:50",
+    "team": "home",
+    "player_name": "Цветослав Митев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3990-cvetoslav-mitev\">Цветослав Митев</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:50",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:50",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:50",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>грешка нарушение в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "00:50",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>нарушение в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "01:05",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>наказателен удар 2от2<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "01:05",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>наказателен удар 1от2<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "01:23",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "01:24",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "01:40",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>наказателен удар 1от2<br/>успешен (16 точки)</div>",
+    "home_score": 65,
+    "away_score": 57
+  },
+  {
+    "quarter": "Q4",
+    "time": "01:40",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "01:40",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "01:40",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>наказателен удар 2от2<br/>успешен (18 точки)</div>",
+    "home_score": 65,
+    "away_score": 58
+  },
+  {
+    "quarter": "Q4",
+    "time": "01:45",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "01:47",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "02:09",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "02:09",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "02:09",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>наказателен удар 1от1<br/>успешен (28 точки)</div>",
+    "home_score": 65,
+    "away_score": 56
+  },
+  {
+    "quarter": "Q4",
+    "time": "02:12",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a></div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "02:18",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>опит за стрелба от 2т.<br/>успешен (22 точки)</div>",
+    "home_score": 65,
+    "away_score": 55
+  },
+  {
+    "quarter": "Q4",
+    "time": "02:23",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "02:26",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "02:34",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "02:34",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>грешен пас</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "02:41",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>опит за стрелба от 2т.<br/>успешен (34 точки)</div>",
+    "home_score": 63,
+    "away_score": 55
+  },
+  {
+    "quarter": "Q4",
+    "time": "02:51",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "02:51",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "02:59",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>грешен пас</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "02:59",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "03:03",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "03:03",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>грешен пас</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "03:14",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>2 стрелба тип флоутър <br/>успешен (26 точки)</div>",
+    "home_score": 63,
+    "away_score": 53
+  },
+  {
+    "quarter": "Q4",
+    "time": "03:15",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "03:20",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>блок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "03:20",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "03:45",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "03:45",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "03:50",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>2 стрелба тип флоутър <br/>успешен (22 точки)</div>",
+    "home_score": 61,
+    "away_score": 53
+  },
+  {
+    "quarter": "Q4",
+    "time": "03:50",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "04:03",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "04:07",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "04:10",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "04:23",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "04:25",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "04:30",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "04:30",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "04:44",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>2 стрелба тип флоутър <br/>успешен (36 точки)</div>",
+    "home_score": 59,
+    "away_score": 51
+  },
+  {
+    "quarter": "Q4",
+    "time": "04:51",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "04:51",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "04:51",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "04:51",
+    "team": "away",
+    "player_name": "Денислав Димитров",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-14511-denislav-dimitrov\">Денислав Димитров</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "04:57",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "05:21",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>наказателен удар 2от2<br/>успешен (31 точки)</div>",
+    "home_score": 59,
+    "away_score": 49
+  },
+  {
+    "quarter": "Q4",
+    "time": "05:31",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>наказателен удар 1от2<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "05:31",
+    "team": "away",
+    "player_name": "Елин Нешев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10719-elin-neshev\">Елин Нешев</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "05:31",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "05:31",
+    "team": "home",
+    "player_name": "Андреан Деков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-18487-andrean-dekov\">Андреан Деков</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "05:31",
+    "team": "away",
+    "player_name": "Елин Нешев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10719-elin-neshev\">Елин Нешев</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "05:37",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "05:37",
+    "team": "away",
+    "player_name": "Елин Нешев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10719-elin-neshev\">Елин Нешев</a>грешка при дрибъл</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "06:06",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>2 стрелба тип флоутър <br/>успешен (67 точки)</div>",
+    "home_score": 56,
+    "away_score": 49
+  },
+  {
+    "quarter": "Q4",
+    "time": "06:29",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "06:29",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "06:29",
+    "team": "away",
+    "player_name": "Елин Нешев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10719-elin-neshev\">Елин Нешев</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "06:29",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "06:40",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>грешка при дрибъл</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "06:55",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "06:55",
+    "team": "away",
+    "player_name": "Стефан Милев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13416-stefan-milev\">Стефан Милев</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "06:55",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "06:55",
+    "team": "home",
+    "player_name": "Теодор Върбанов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-21943-teodor-vyrbanov\">Теодор Върбанов</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "07:03",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "07:22",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>2 стрелба тип флоутър <br/>успешен (75 точки)</div>",
+    "home_score": 52,
+    "away_score": 47
+  },
+  {
+    "quarter": "Q4",
+    "time": "07:22",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "07:32",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "07:32",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>грешен пас</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "07:43",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "07:45",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "07:45",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "07:47",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "07:48",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в нападение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "07:50",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "07:57",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "08:00",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>опит за стрелба за 2т., поднасяне<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "08:05",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>отнета топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "08:05",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>грешка при дрибъл</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "08:25",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "08:25",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "08:42",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "08:42",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>опит за стрелба за 2т., поднасяне<br/>успешен (54 точки)</div>",
+    "home_score": 49,
+    "away_score": 45
+  },
+  {
+    "quarter": "Q4",
+    "time": "09:06",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>опит за стрелба за 2т., поднасяне<br/>успешен (34 точки)</div>",
+    "home_score": 49,
+    "away_score": 43
+  },
+  {
+    "quarter": "Q4",
+    "time": "09:20",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "09:22",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "09:43",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>борба в защита</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "09:43",
+    "team": "away",
+    "player_name": "Йосиф Омар",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10398-iosif-omar\">Йосиф Омар</a>опит за стрелба за 2т., поднасяне<br/>успешен (61 точки)</div>",
+    "home_score": 47,
+    "away_score": 43
+  },
+  {
+    "quarter": "Q4",
+    "time": "09:43",
+    "team": "away",
+    "player_name": "Димитър Рачев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13187-dimityr-rachev\">Димитър Рачев</a>асистенция</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "09:43",
+    "team": "home",
+    "player_name": "Максим Наумов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-26485-maksim-naumov\">Максим Наумов</a>опит за стрелба от 2т.<br/>неуспешен</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "09:43",
+    "team": "home",
+    "player_name": "Антонио Станков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1445-antonio-stankov\">Антонио Станков</a>3 стрелба с отскок</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "09:43",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>лично нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "09:43",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>понесено нарушение</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "09:50",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>върната топка</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Денислав Димитров",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-14511-denislav-dimitrov\">Денислав Димитров</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Димитър Балъков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17394-dimityr-balykov\">Димитър Балъков</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "10:00",
+    "team": "home",
+    "player_name": "Константин Търновски",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13091-konstantin-tyrnovski\">Константин Търновски</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "10:00",
+    "team": "home",
+    "player_name": "Стефан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-3985-stefan-ivanov\">Стефан Иванов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "10:00",
+    "team": "home",
+    "player_name": "Валери Пейков",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-9382-valeri-peikov\">Валери Пейков</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Елин Нешев",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-10719-elin-neshev\">Елин Нешев</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Димитър Мангов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-1293-dimityr-mangov\">Димитър Мангов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Йордан Иванов",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-13846-iordan-ivanov\">Йордан Иванов</a>смяна излиза</div>",
+    "home_score": null,
+    "away_score": null
+  },
+  {
+    "quarter": "Q4",
+    "time": "10:00",
+    "team": "away",
+    "player_name": "Дзежен Дай",
+    "event_text": "<div class=\"div_info\">\n<a class=\"player_name\" href=\"player-17432-dzejen-dai\">Дзежен Дай</a>смяна влиза</div>",
+    "home_score": null,
+    "away_score": null
+  }
+]
